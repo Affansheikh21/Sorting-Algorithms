@@ -1,0 +1,3 @@
+# Sorting-Algorithms
+Data can be sorted in multiple ways using different sorting algorithms depending on the pattern of data. Some of the commonly used sorting algorithms are Bubble, Insertion, Merge and Quick Sort.
+Each of the Sorting Algorithm performs differently with a different time complexity, depending on whether the data is completely unsorted, partially sorted or completely sorted.
